@@ -288,6 +288,7 @@ Comparison lists:
 * [Mastinator](https://mastinator.com/) - disposable public anonymous no-login Fediverse accounts
 * [Mastodon Bookmark RSS](https://bookmark-rss.services.woodland.cafe/) - expose your bookmarks as private RSS feed to read later, or for archival
 * [Mastowatch](https://apps.apple.com/us/app/mastowatch/id1662271463) - iOS/macOS app that allows you to inspect the public config and details of any Mastodon server without having to log in or register
+* [FxMastodon](https://github.com/Someguy123/fxmastodon#readme) - tool to fix embeds to mastodon posts that are send on places like discord 
 
 ## Extensions
 
